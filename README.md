@@ -1,12 +1,5 @@
-# 💫 About Me:
-# Hi there 👋  <br><br>🎯 I’m currently working on: a Finance AI assistant that helps analyze personal finance with RAG and visualizations.  <br>🤝 I’m looking to collaborate on: open-source AI/ML projects and hackathons.  <br>🧩 I’m looking for help with: scaling real-time apps and optimizing backend performance.  <br>🧪 I’m currently learning: advanced data structures, React Native, and cloud deployment.  <br>💬 Ask me about: hackathon experiences, AI assistants, and full-stack development.  <br>⚡ Fun fact: I’ve ranked top 3 in multiple hackathons and love building tools that connect people.  <br><br>---<br><br>## 🛠️ Languages & Tools  <br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br>![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>---<br><br>## 📊 GitHub Stats  <br>![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=SahilKulkarni10&show_icons=true&theme=tokyonight)  <br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKulkarni10&layout=compact&theme=tokyonight)  <br><br>![GitHub Streak](https://streak-stats.demolab.com?user=SahilKulkarni10&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  <br><br>---<br><br>## 🌍 Connect with me  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilkulkarni10)  <br>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahilKulkarni10)  <br>[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarnisahil882@gmail.com)  <br><br>---
+# Sahil Kulkarni  
+**AI/ML Enthusiast | Full-Stack Developer**  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SahilKulkarni10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SahilKulkarni10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKulkarni10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SahilKulkarni10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Hi there 👋  
+I’m excited about Artificial Intelligence & Machine Learning 🤖 and love building projects that bring ideas to life! 🚀
